@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/JavaSummary/java基础" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/java容器" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/JVM" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/linux" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/mysql知识点" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/Redis" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/springboot注解" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/sql语法" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/并发" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/数据库MySql" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/数据库调优" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/计算机操作系统" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/计算机网络" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/设计模式" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/问题汇总" />
+    <file url="file://$PROJECT_DIR$/JavaSummary/集合" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

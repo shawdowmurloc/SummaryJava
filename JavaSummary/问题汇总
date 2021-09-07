@@ -1,0 +1,40 @@
+为什么重写equals方法的时候要重写hashcode方法？
+面向对象的优点？
+接口和抽象类的区别？
+int和Integer的区别？
+if和switch的区别？
+while和do-while的区别？
+内存泄漏和内存溢出的区别？
+==和equals的区别？
+ArrayList和LinkedList的区别？
+ArrayList和Vector的区别？
+List、Set、Map各有什么特点？
+Map、HashMap、HashTable、CurrentHashMap、LinkedHashMap 、LinkedMultiValueMap的区别？
+异常的概念、分类和处理
+IO流的概念、分类和基本方法
+多线程的概念、原理、优缺点
+乐观锁和悲观锁的区别？
+进程和线程的区别？
+同步和异步的区别？
+sleep和wait的区别？
+线程同步的相关方法有哪些？
+启动线程使用run还是start？
+Spring MVC的概念、原理
+Spring MVC和structs2的区别？
+Spring MVC的相关注解
+Mybatis的概念、原理、优缺点
+Spring Boot如何配置Mybatis？
+如何使用Mybatis进行增删改查？
+Mybatis中的数据映射（一对一、一对多、多对多）
+Spring Boot的概念、原理、优缺点
+如何快速构建Spring Boot项目？
+Spring Boot的相关注解
+Spring Cloud的概念、原理、优缺点
+DML、DDL、DQL、DCL
+SQL基本查询和运算
+SQL条件查询
+SQL基本函数
+Redis的概念、原理和优缺点
+Redis五种数据类型
+Kafka的概念、原理和基本术语
+Kafka的功能和应用有哪些？
